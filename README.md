@@ -2,7 +2,7 @@
 
 
 <h1>👋 Hi, I’m Adarsh Kumar Patel @AdarshMitr</h1>
-Currently, I am learning more on:</br>
+Currently, I am learning more about:</br>
 <h3>Javascript </h3> </br>
 <h3>React js </h3></br>
 <h3>CSS</h3>
