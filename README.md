@@ -2,7 +2,7 @@
 
 
 <h2>About Me: </h2>
-<h3>👋 Hi, I’m a full stack developer from India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h3>
+<h3>👋 Hi, I’m a Full Stack Developer from India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h3>
                                                                                                                                 
 I am working as a web developer and contributing to frontend and backend web applications.
 </br>
