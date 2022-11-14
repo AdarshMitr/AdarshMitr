@@ -24,9 +24,17 @@ I am working as a web developer and contributing to frontend and backend web app
 </p>
 <br>
 
-- 📫 reach me at: adarshkumar019@gmail.com
+
 
 <!---
 AdarshMitr/AdarshMitr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- 📫 reach me at: adarshkumar019@gmail.com
+<p align=right> 
+<img src="https://user-images.githubusercontent.com/94846640/201601174-05b0ac1a-6616-43ea-baf7-20343b8f36bb.png" title="Plans" alt="Plans" width="240" height="240"/>&nbsp;
+</p>
+
+
+
+
