@@ -1,4 +1,5 @@
-# ADARSH KUMAR PATEL
+![ADARSH KUMAR PATEL](https://user-images.githubusercontent.com/94846640/201844605-a1015683-8729-4382-8af7-fa9017ce01bf.png)
+
 
 
 <h2>About Me: </h2><h3>👋 Hi, I’m a Full Stack Developer from India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h3>
