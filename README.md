@@ -1,8 +1,7 @@
-![ADARSH KUMAR PATEL](https://user-images.githubusercontent.com/94846640/201508164-b1b1af21-fe16-42e2-940f-5ac945715c15.png)
+# ADARSH KUMAR PATEL
 
 
-<h2>About Me: </h2>
-<h3>👋 Hi, I’m a Full Stack Developer from India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h3>
+<h2>About Me: </h2><h3>👋 Hi, I’m a Full Stack Developer from India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h3>
                                                                                                                                 
 I am working as a web developer and contributing to frontend and backend web applications.
 </br>
@@ -31,6 +30,10 @@ AdarshMitr/AdarshMitr is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 - 📫 reach me at: adarshkumar019@gmail.com
+
+
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 <p> 
 <img src="https://user-images.githubusercontent.com/94846640/201606136-619c77f5-0ddd-4164-8eb6-749a535e841d.png" title="Plan" alt="Plan"/>
 </p>
